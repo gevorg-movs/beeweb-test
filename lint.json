@@ -1,0 +1,643 @@
+[
+  {
+    "type": "wordsNativeToLearning",
+    "number": 0,
+    "steps": [
+      {
+        "answers": [
+          "fish",
+          "meat",
+          "pizza",
+          "seafood"
+        ],
+        "correctAnswer": "meat",
+        "image": "https://firebasestorage.googleapis.com/v0/b/englishapp-65a52.appspot.com/o/images%2F1652528391533.png?alt=media&token=099c252d-a419-40a1-b6f5-7b4e0b5be715",
+        "word": "միս"
+      },
+      {
+        "word": "որդի",
+        "answers": [
+          "brother",
+          "child",
+          "daugther",
+          "son"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/englishapp-65a52.appspot.com/o/images%2F1652528449417.png?alt=media&token=1f581bcd-f295-4056-a293-0a7a0da6667a",
+        "correctAnswer": "son"
+      },
+      {
+        "image": "https://firebasestorage.googleapis.com/v0/b/englishapp-65a52.appspot.com/o/images%2F1652528487731.png?alt=media&token=aae1fabe-686d-4baa-abfb-08076cdf8cea",
+        "correctAnswer": "cake",
+        "answers": [
+          "apple",
+          "cake",
+          "chocolate",
+          "meat"
+        ],
+        "word": "տորթ"
+      },
+      {
+        "image": "https://firebasestorage.googleapis.com/v0/b/englishapp-65a52.appspot.com/o/images%2F1652528529123.png?alt=media&token=f57d0000-136c-4075-a877-802912ccb814",
+        "answers": [
+          "apple",
+          "ice cream",
+          "juice",
+          "meat"
+        ],
+        "correctAnswer": "ice cream",
+        "word": "պաղպաղակ"
+      },
+      {
+        "correctAnswer": "chocolate",
+        "word": "շոկոլադ",
+        "answers": [
+          "chocolate",
+          "coffee",
+          "orange",
+          "pizza"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/englishapp-65a52.appspot.com/o/images%2F1652528561267.png?alt=media&token=1fdf032c-7f4a-402d-8a2e-a8b8abd381a8"
+      },
+      {
+        "word": "պիցցա",
+        "correctAnswer": "pizza",
+        "answers": [
+          "fish",
+          "ice cream",
+          "meat",
+          "pizza"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/englishapp-65a52.appspot.com/o/images%2F1652528585238.png?alt=media&token=55731887-cb4d-4ac0-b649-264a3228f908"
+      }
+    ]
+  },
+  {
+    "steps": [
+      {
+        "correctAnswer": "լող",
+        "word": "swimming",
+        "answers": [
+          "լող",
+          "երգ",
+          "սպորտ",
+          "դպրոց"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/englishapp-65a52.appspot.com/o/images%2F1652528666235.png?alt=media&token=f775f94e-9a23-477b-a58c-a99364fd3b10"
+      },
+      {
+        "word": "children",
+        "correctAnswer": "երեխաներ",
+        "image": "https://firebasestorage.googleapis.com/v0/b/englishapp-65a52.appspot.com/o/images%2F1652529030918.png?alt=media&token=3de990b0-86fc-4376-acc0-0181ca39626f",
+        "answers": [
+          "երեխաներ",
+          "մարդիկ",
+          "երեխա",
+          "ընտանիք"
+        ]
+      },
+      {
+        "correctAnswer": "ծովամթերք",
+        "word": "seafood",
+        "image": "https://firebasestorage.googleapis.com/v0/b/englishapp-65a52.appspot.com/o/images%2F1652529074751.png?alt=media&token=905f0530-3703-465b-b4ff-f4128bb16808",
+        "answers": [
+          "ծովամթերք",
+          "պիցցա",
+          "ձուկ",
+          "շոկոլադ"
+        ]
+      },
+      {
+        "word": "child",
+        "answers": [
+          "երեխաներ",
+          "աղջիկ",
+          "երեխա",
+          "որդի"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/englishapp-65a52.appspot.com/o/images%2F1652529119091.png?alt=media&token=f4aaf7d4-0b64-4290-b579-e92ec2467c72",
+        "correctAnswer": "երեխա"
+      },
+      {
+        "image": "https://firebasestorage.googleapis.com/v0/b/englishapp-65a52.appspot.com/o/images%2F1652529201472.png?alt=media&token=0bfd8ad4-f29a-4c67-bf8d-e764c7f98912",
+        "correctAnswer": "բնակարան",
+        "word": "apartment",
+        "answers": [
+          "տուն",
+          "բնակարան",
+          "տեղ",
+          "երկիր"
+        ]
+      },
+      {
+        "image": "https://firebasestorage.googleapis.com/v0/b/englishapp-65a52.appspot.com/o/images%2F1652529241495.png?alt=media&token=e9432865-536f-4312-a5f4-fb07e9287929",
+        "word": "airport",
+        "answers": [
+          "օդանավակայան",
+          "տուն",
+          "բնակարան",
+          "համալսարանշ"
+        ],
+        "correctAnswer": "օդանավակայան"
+      },
+      {
+        "answers": [
+          "դուստր",
+          "երեխա",
+          "տղա",
+          "քույր"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/englishapp-65a52.appspot.com/o/images%2F1652529303283.png?alt=media&token=9e471966-8c57-4165-82d9-b69d5dab77fb",
+        "word": "daughter",
+        "correctAnswer": "դուստր"
+      }
+    ],
+    "type": "wordsLearningToNative",
+    "number": 1
+  },
+  {
+    "steps": [
+      {
+        "words": {
+          "foreign": "արտաքին",
+          "girlfriend": "ընկերուհի",
+          "German": "գերմանական",
+          "four": "չորս",
+          "boyfriend": "ընկեր"
+        }
+      },
+      {
+        "words": {
+          "Spanish": "իսպաներեն",
+          "women": "կանայք",
+          "three": "երեք",
+          "men": "տղամարդիկ",
+          "hospital": "հիվանդանոց"
+        }
+      }
+    ],
+    "number": 2,
+    "type": "matchWords"
+  },
+  {
+    "steps": [
+      {
+        "correctAnswers": [
+          "She has two daughters and one son"
+        ],
+        "words": [
+          "a",
+          "and",
+          "daughter",
+          "daughters",
+          "has",
+          "have",
+          "She",
+          "son",
+          "sons",
+          "two",
+          "one"
+        ],
+        "sentence": "Նա ունի երկու աղջիկ և մեկ տղա"
+      },
+      {
+        "words": [
+          "a",
+          "and",
+          "I",
+          "man",
+          "men",
+          "see",
+          "two",
+          "with",
+          "woman",
+          "women"
+        ],
+        "sentence": "Ես տեսնում եմ տղամարդու և երկու կնոջ",
+        "correctAnswers": [
+          "I see a man and two women"
+        ]
+      },
+      {
+        "sentence": "Նա աշխատանք ունի",
+        "words": [
+          "a",
+          "an",
+          "has",
+          "have",
+          "He",
+          "job",
+          "two"
+        ],
+        "correctAnswers": [
+          "He has a job"
+        ]
+      },
+      {
+        "correctAnswers": [
+          "I see three women"
+        ],
+        "sentence": "Ես տեսնում եմ երեք կնոջ",
+        "words": [
+          "at",
+          "I",
+          "see",
+          "three",
+          "two",
+          "woman",
+          "women"
+        ]
+      },
+      {
+        "sentence": "Նա երկու երեխա ունի",
+        "words": [
+          "child",
+          "children",
+          "has",
+          "have",
+          "one",
+          "She",
+          "two"
+        ],
+        "correctAnswers": [
+          "She has two children"
+        ]
+      },
+      {
+        "correctAnswers": [
+          "She speaks English and German"
+        ],
+        "words": [
+          "and",
+          "English",
+          "German",
+          "learns",
+          "on",
+          "She",
+          "speak",
+          "speaks"
+        ],
+        "sentence": "Նա խոսում է անգլերեն և գերմաներեն"
+      },
+      {
+        "words": [
+          "man",
+          "men",
+          "see",
+          "sees",
+          "to",
+          "two",
+          "We"
+        ],
+        "correctAnswers": [
+          "We see two men"
+        ],
+        "sentence": "Մենք երկու տղամարդու ենք տեսնում"
+      },
+      {
+        "correctAnswers": [
+          "I like English"
+        ],
+        "sentence": "Ինձ դուր է գալիս անգլերենը",
+        "words": [
+          "an",
+          "English",
+          "I",
+          "like",
+          "likes",
+          "really"
+        ]
+      },
+      {
+        "sentence": "Նա երեխաներ ունի",
+        "correctAnswers": [
+          "She has children"
+        ],
+        "words": [
+          "child",
+          "children",
+          "has",
+          "have",
+          "one",
+          "She"
+        ]
+      }
+    ],
+    "type": "sentenceNativeToLearning",
+    "number": 3
+  },
+  {
+    "steps": [
+      {
+        "correctAnswers": [
+          "Ես բնակարան ունեմ",
+          "Ես ունեմ բնակարան"
+        ],
+        "words": [
+          "ունեմ",
+          "բնակարան",
+          "ինձ",
+          "ազատ",
+          "հիմա",
+          "Ես",
+          "դու"
+        ],
+        "sentence": "I have an apartment"
+      },
+      {
+        "sentence": "She sees a taxi",
+        "words": [
+          "Նա",
+          "իրոք",
+          "մի",
+          "քանի",
+          "է",
+          "տեսնում",
+          "տաքսի"
+        ],
+        "correctAnswers": [
+          "Նա տաքսի է տեսնում"
+        ]
+      },
+      {
+        "words": [
+          "Ես",
+          "նա",
+          "շատ",
+          "տորթեր",
+          "թեյ",
+          "խնձոր",
+          "հավանում",
+          "եմ",
+          "սիրում"
+        ],
+        "sentence": "I like cakes",
+        "correctAnswers": [
+          "Ես սիրում եմ տորթեր",
+          "Ես հավանում եմ տորթեր"
+        ]
+      },
+      {
+        "words": [
+          "սիրում",
+          "շատ",
+          "ձուկ",
+          "սպորտ",
+          "շոկոլադ",
+          "եմ",
+          "դուր",
+          "գալիս",
+          "է",
+          "Ես",
+          "եմ"
+        ],
+        "sentence": "I love chocolate",
+        "correctAnswers": [
+          "Ես սիրում եմ շոկոլադ",
+          "Ես շոկոլադ սիրում եմ"
+        ]
+      },
+      {
+        "words": [
+          "նարինջներ",
+          "ծովամթերք",
+          "Մենք",
+          "ենք",
+          "սիրում",
+          "այս",
+          "դրանք"
+        ],
+        "correctAnswers": [
+          "Մենք սիրում ենք ծովամթերք"
+        ],
+        "sentence": "We love seafood"
+      },
+      {
+        "sentence": "She eats fish",
+        "words": [
+          "ուտել",
+          "ծովամթերք",
+          "Նա",
+          "է",
+          "ձկներ",
+          "հաճախ",
+          "շոկոլադ",
+          "ուտում",
+          "ձուկ"
+        ],
+        "correctAnswers": [
+          "Նա ձուկ է ուտում"
+        ]
+      },
+      {
+        "sentence": "We see an airport",
+        "words": [
+          "օդանավակայան",
+          "տեսնում",
+          "տուն",
+          "ենք",
+          "գիտենք",
+          "Մենք",
+          "այս"
+        ],
+        "correctAnswers": [
+          "Մենք օդանավակայան ենք տեսնում"
+        ]
+      },
+      {
+        "sentence": "She has questions",
+        "words": [
+          "հարցեր",
+          "ունի",
+          "քիչ",
+          "շատ",
+          "Նա",
+          "մի",
+          "քանի",
+          "նոր"
+        ],
+        "correctAnswers": [
+          "Նա հարցեր ունի"
+        ]
+      },
+      {
+        "words": [
+          "երեխաներ",
+          "դուստր",
+          "կա",
+          "տղա",
+          "Նա",
+          "ունի",
+          "վարդ",
+          "մեքենա",
+          "որդի"
+        ],
+        "sentence": "She has a son",
+        "correctAnswers": [
+          "Նա որդի ունի"
+        ]
+      }
+    ],
+    "number": 4,
+    "type": "sentenceLearningToNative"
+  },
+  {
+    "steps": [
+      {
+        "words": [
+          "has",
+          "an",
+          "she",
+          "have",
+          "He",
+          "apartment",
+          "a",
+          "house"
+        ],
+        "sentence": "He has an apartment"
+      },
+      {
+        "sentence": "They have two sons",
+        "words": [
+          "we",
+          "They",
+          "have",
+          "son",
+          "two",
+          "has",
+          "sons",
+          "to"
+        ]
+      },
+      {
+        "sentence": "I see four people",
+        "words": [
+          "children",
+          "I",
+          "three",
+          "for",
+          "my",
+          "people",
+          "see",
+          "four"
+        ]
+      },
+      {
+        "words": [
+          "children",
+          "an",
+          "have",
+          "They",
+          "a",
+          "one",
+          "we",
+          "child"
+        ],
+        "sentence": "They have a child"
+      },
+      {
+        "sentence": "He has a daughter",
+        "words": [
+          "son",
+          "daughter",
+          "has",
+          "have",
+          "a",
+          "child",
+          "an",
+          "He"
+        ]
+      }
+    ],
+    "number": 5,
+    "type": "collectFromAudio"
+  },
+  {
+    "type": "translateFromAudio",
+    "steps": [
+      {
+        "sentence": "I have a girlfriend",
+        "correctAnswers": [
+          "Ես ընկերուհի ունեմ"
+        ],
+        "words": [
+          "ունեմ",
+          "ընկերուհի",
+          "կա",
+          "երեխաներ",
+          "իրոք",
+          "քույր",
+          "աղջիկ",
+          "Ես",
+          "մենք"
+        ]
+      },
+      {
+        "words": [
+          "գաղափարը",
+          "գալիս",
+          "է",
+          "դուր",
+          "Նրան",
+          "իմ",
+          "նա",
+          "հավանում"
+        ],
+        "sentence": "He likes my idea",
+        "correctAnswers": [
+          "Նրան դուր է գալիս իմ գաղափարը",
+          "Նա հավանում է իմ գաղափարը"
+        ]
+      },
+      {
+        "words": [
+          "Նա",
+          "կա",
+          "երեխաներ",
+          "ունի",
+          "ընկերուհի",
+          "նրանց",
+          "իսկապես",
+          "աղջիկ"
+        ],
+        "sentence": "He has a girlfriend",
+        "correctAnswers": [
+          "Նա ընկերուհի ունի"
+        ]
+      },
+      {
+        "words": [
+          "տուն",
+          "հյուրանոցը",
+          "շուն",
+          "սիրում",
+          "նրանց",
+          "եմ",
+          "այս",
+          "Ես",
+          "իսկապես",
+          "դուռ"
+        ],
+        "correctAnswers": [
+          "Ես սիրում եմ այս հյուրանոցը"
+        ],
+        "sentence": "I love this hotel"
+      },
+      {
+        "sentence": "He likes pizza",
+        "correctAnswers": [
+          "Նա հավանում է պիզզա"
+        ],
+        "words": [
+          "հավանում",
+          "Նա",
+          "շատ",
+          "շոկոլադ",
+          "գաղափար",
+          "է",
+          "պիզզա"
+        ]
+      }
+    ],
+    "number": 6
+  }
+]
